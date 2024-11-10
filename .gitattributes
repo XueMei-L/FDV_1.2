@@ -4,3 +4,4 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 Script1_2.cs filter=lfs diff=lfs merge=lfs -text
 *.json text eol=lf
+Assets/Plugins/** filter=lfs diff=lfs merge=lfs -text
